@@ -1,6 +1,12 @@
 package condition.control_flow
 
 class IfCondition {
+    /*
+    * 1.if condtion
+    * 2.when expression
+    * 3.for loops
+    * 4.while loop
+    * */
     companion object {
         @JvmStatic
         fun main(args: Array<String>) {

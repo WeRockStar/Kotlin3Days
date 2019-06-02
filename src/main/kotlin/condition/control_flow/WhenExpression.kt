@@ -35,7 +35,7 @@ class WhenExpression {
 
 
             /**
-             * 3.ragne condition in and !in
+             * 3.ragne condition in or !in
              */
             val riskAssessment = 47
             when (riskAssessment) {
